@@ -1,0 +1,3 @@
+[submodule "yahoo_tv_search"]
+	path = yahoo_tv_search
+	url = https://github.com/tsubasaogawa/yahoo-tv-search.git
